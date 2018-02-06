@@ -68,4 +68,7 @@ fastlane/test_output
 
 .DS_Store
 /Packages
-/*.xcodeproj
+
+
+xcuserdata
+Carthage/
